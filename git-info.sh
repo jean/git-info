@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# author: Duane Johnson
+# original author: Duane Johnson
 # email: duane.johnson@gmail.com
 # date: 2008 Jun 12
 # license: MIT
@@ -30,10 +30,6 @@ if [ -d .git ]; then
   echo "== Most Recent Commit"
   git --no-pager log --max-count=1
   echo
-
-  # echo "== Configuration (.git/config)"
-  # cat .git/config
-  # echo
 
   echo "Type 'git log' for more commits, or 'git show' for full commit details."
 else
