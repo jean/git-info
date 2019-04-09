@@ -8,6 +8,6 @@ A quick google found me a convenient little script here:
 
 There are at least two others on github:
 
-gitbits/git-info:: Lots of bash functions, looks too complicated.
-iamsolarpowered/git-info:: In ruby, why ruby if you can bash. 
+- gitbits/git-info: Lots of bash functions, looks too complicated.
+- iamsolarpowered/git-info: In ruby, why ruby if you can bash. 
 
